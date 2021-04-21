@@ -49,6 +49,21 @@ You can see your value in your get function. the compiler and deployer looks lik
 
 ![Supply Image](Images/three.gif)
 
+### Also, we can add optional fuction called " constructor "
+
+https://www.tutorialspoint.com/solidity/solidity_constructors.htm
+
+A contract can have only one constructor.
+
+A constructor code is executed once when a contract is created and it is used to initialize contract state.
+
+After a constructor code executed, the final code is deployed to blockchain. This code include public functions and code reachable through public functions. Constructor code or any internal method used only by constructor are not included in final code.
+
+A constructor can be either public or internal.
+
+A internal constructor marks the contract as abstract.
+
+In case, no constructor is defined, a default constructor is present in the contract.
 
 
 
