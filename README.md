@@ -18,4 +18,14 @@ The above Gif Image shows once you compile the above simple, smart contract, you
 #### " Did you intend to add "public" ? function get() 
 
 This means we need to add "public." or if it is private we can add "private" after the get().
+
+But its still give an error on line 8.
+
 ![image](https://user-images.githubusercontent.com/71329902/115631370-8a217f80-a2ba-11eb-832f-891210421384.png)
+
+The error says,
+
+![image](https://user-images.githubusercontent.com/71329902/115631491-c7860d00-a2ba-11eb-995f-6142467fef61.png)
+
+
+
