@@ -65,6 +65,8 @@ A internal constructor marks the contract as abstract.
 
 In case, no constructor is defined, a default constructor is present in the contract.
 
+![Supply Image](Images/four.gif)
+
 
 
 
