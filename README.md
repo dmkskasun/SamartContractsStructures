@@ -35,6 +35,8 @@ and the warning says,
 
 ![image](https://user-images.githubusercontent.com/71329902/115632313-49c30100-a2bc-11eb-8af8-3d9399959d2f.png)
 
+This simply means we cant view the string value after we deply it, so we add ##view 
+
 
 
 
