@@ -1,6 +1,6 @@
 # SamartContractsStructures
 ----
-![Supply Image](Images/Image_4.jpeg)
+![Supply Image](Images/ethereum_solidity.jpg)
 
 ### My First Contract
 Still pending........
