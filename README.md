@@ -17,4 +17,4 @@ The above Gif Image shows once you compile the above simple, smart contract, you
 
 #### " Did you intend to add "public" ? function get() 
 
-This means we need to add "public." after the get(). 
+This means we need to add "public." or if it is private we can add "private" after the get().
