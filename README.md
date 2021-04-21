@@ -39,6 +39,8 @@ This simply means we cant view the string value after we deply it, so we add "vi
 
 Finally we can compile it and depoly it as below.
 
+![Supply Image](Images/two.gif)
+
 
 
 
