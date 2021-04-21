@@ -41,6 +41,15 @@ Finally we can compile it and depoly it as below.
 
 ![Supply Image](Images/two.gif)
 
+### How to ADD set function ?
+
+When you add "set" function, the argument of adding set fuction is to change value to another value, or set a value. 
+
+You can see your value in your get function. the compiler and deployer looks like below. 
+
+![Supply Image](Images/three.gif)
+
+
 
 
 
