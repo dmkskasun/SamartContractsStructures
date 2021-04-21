@@ -27,7 +27,7 @@ The error says,
 
 ![image](https://user-images.githubusercontent.com/71329902/115631491-c7860d00-a2ba-11eb-995f-6142467fef61.png)
 
-The above error means there are many arguments, which means the solidity compiler didn't know the return value is a string, integer, etc.( VAR), So we need to change that public return(string) 
+The above error means there are many arguments, which means the solidity compiler didn't know the return value is a string, integer, etc.( VAR), So we need to change that public returns(string) 
 
 
 
