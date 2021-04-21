@@ -15,6 +15,6 @@ I am using Dapp University and freeCodeCamp.org to build the building blocks ste
 
 The above Gif Image shows once you compile the above simple, smart contract, you get errors in lines 7 and 8. Line 7 says 
 
-@@ text in red (and bold)@@ " Did you intend to add "public" ? function get()  @@
+#### " Did you intend to add "public" ? function get() 
 
 This means we need to add "public." after the get(). 
