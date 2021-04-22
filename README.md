@@ -1,4 +1,4 @@
-# SamartContractsStructures 01
+# SmartContractsStructures 01
 ----
 ![Supply Image](Images/ethereum_solidity.jpg)
 
