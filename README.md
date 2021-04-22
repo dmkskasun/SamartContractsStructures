@@ -67,6 +67,7 @@ In case, no constructor is defined, a default constructor is present in the cont
 ![Supply Image](Images/four.gif)
 
 So thats it, this is the most simple smart contract.. To be continue see SmartContractsStructures Part II
+https://github.com/dmkskasun/Smart_Contract_Structures_Part_2.git
 
 
 
