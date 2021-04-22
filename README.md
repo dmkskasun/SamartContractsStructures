@@ -1,9 +1,8 @@
-# SamartContractsStructures
+# SmartContractsStructures 01
 ----
 ![Supply Image](Images/ethereum_solidity.jpg)
 
 ### My First Contract
-Still pending........
 
 I am trying to simplify solidity and show how to build it step by step. 
 I am using Dapp University and freeCodeCamp.org to build the building blocks step by step. 
@@ -65,6 +64,9 @@ A internal constructor marks the contract as abstract.
 
 In case, no constructor is defined, a default constructor is present in the contract.
 
+![Supply Image](Images/four.gif)
+
+So thats it, this is the most simple smart contract.. To be continue see SmartContractsStructures Part II
 
 
 
