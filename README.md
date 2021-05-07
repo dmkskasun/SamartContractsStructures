@@ -5,7 +5,7 @@
 ### My First Contract
 
 I am trying to simplify solidity and show how to build it step by step. 
-I am using Dapp University and freeCodeCamp.org to build the building blocks step by step. 
+I am using Dapp University and freeCodeCamp.org to build the building blocks step by step.(https://www.youtube.com/watch?v=ipwxYa-F1uY&t=2358s)
 
 ----
 ### How to find errors and how to solve them?
